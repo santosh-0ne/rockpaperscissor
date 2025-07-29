@@ -6,3 +6,7 @@ scissors cuts paper,
 and paper covers rock. 
 If both players choose the same shape, 
 it's a tie, and they play again. 
+!![Uploading 2202_w023_n001_1896b_p1_1896.jpg…]()
+
+
+
