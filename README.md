@@ -1,3 +1,5 @@
+#  ROCK PAPER SCISSOR GAME WITH BOT
+
 Rock, Paper, Scissors is a two-player hand game 
 where players simultaneously form one of three shapes with their hand:
 rock (a fist), paper (a flat hand), or scissors (a fist with the index and middle fingers extended).
