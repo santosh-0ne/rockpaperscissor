@@ -7,4 +7,4 @@ and paper covers rock.
 If both players choose the same shape, 
 it's a tie, and they play again. 
 
-![2202_w023_n001_1896b_p1_1896](https://github.com/user-attachments/assets/9bf3e3a6-e625-462f-a274-af421750df60)
+![image of rock paper scissor ](https://github.com/user-attachments/assets/9bf3e3a6-e625-462f-a274-af421750df60)
